@@ -8,9 +8,9 @@
 > 🔵 **B.Tech. in Electronics and Telecommunication Enginering** from Biju Pattnaik University of Technology, Odisha, India  
 
 ### :orange_book: Reasearch Interest  
-> 🟠 **Quality Metrics**
-> 🟠 **Computer Vision**
-> 🟠 **Biomedical Signal Processing**
+> 🟠 **Computer Vision** -
+> 🟠 **Pattern Recognition** -
+> 🟠 **Biomedical Signal Processing** -
 
 ### 👀 Who wants to know more about me, click it!
 
@@ -31,7 +31,7 @@
 
 <div align=center>
   
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Taeyoung96&count_private=true
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbinasChopdar&count_private=true
 )](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
