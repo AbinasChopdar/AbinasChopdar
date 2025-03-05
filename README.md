@@ -17,7 +17,7 @@
 <div align=center>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abinasresearch@gmail.com)](mailto:abinasresearch@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abinaschopdar)](www.linkedin.com/in/abinaschopdar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abinaschopdar)](https://www.linkedin.com/in/abinaschopdar)
 
 
 </div>
