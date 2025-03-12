@@ -13,7 +13,7 @@ I'm a PhD student at IIT Kharagpur. I'm passionate about computer vision, machin
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/abinas-chopdar/)
+- [LinkedIn](https://www.linkedin.com/in/abinaschopdar)
 - [Email](mailto:abinasresearch@gmail.com)
 
 Thanks for visiting my profile! 😊
