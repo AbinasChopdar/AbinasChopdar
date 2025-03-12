@@ -8,7 +8,7 @@ I'm a PhD student at IIT Kharagpur. I'm passionate about computer vision, machin
 
 - **Programming Languages**: Python, Matlab, Cpp,CUDA
 - **Web Development**: HTML, CSS, JavaScript
-- **Tools**: Android Studio, Ubuntu, Git
+- **Tools**: Android Studio, Ubuntu, Git, VS-Code
 ---
 
 ## 📫 How to reach me
